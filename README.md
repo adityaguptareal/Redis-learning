@@ -10,7 +10,6 @@ In a typical web app setup, a user interacts with a server, which then talks to 
 
 This can take a long time, especially if the user refreshes the page often, leading to repeated heavy work and slower response times.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1771076648095/40b39a50-2ab7-48ee-b2e0-33c9ff928000.png align="center")
 
 ## Redis as a Solution
 
